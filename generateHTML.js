@@ -167,42 +167,42 @@ function generateHTML(data) {
 
          @media print { 
           body { 
-            zoom: .75; 
+            zoom: .50; 
           } 
          }
       </style>
       </head>
       <body class="wrapper">
           <div class="photo-header">
-            <img class="photo-header" src='https://avatars3.githubusercontent.com/u/55067925?s=400&u=d0184823d69293a88d99bcd5c4197d71a688f253&v=4' />
+            <img class="photo-header" src='https://enadan.github.io/homework2/assets/images/stp.JPG' />
             <h1>Hi!<br>My name is jamse!</h1>
             <h2>Currently @ Bank of America</h2>
             <div class="links-nav">
-            <a class="nav-link" href="">Seattle, Washington</a>
-            <a class="nav-link" href="">GitHub</a>
-            <a class="nav-link" href="">Blog</a>
+            <a class="nav-link" target="_blank" href="https://goo.gl/maps/acEzxNTxqwZ3KKsj7">Seattle, Washington</a>
+            <a class="nav-link" target="_blank" href="https://github.com/enadan">GitHub</a>
+            <a class="nav-link" target="_blank" href="">Blog</a>
           </div>
         </div>
         <main class="container">
-          <h2 class="col">I build things and teach people to code.</h2>
+          <h2 class="col">Financial Advisor working for Merrill Lynch</h2>
           <div class="row">
           <div class="card col">
             <h2 class="">Public Repositories</h2>
-            <h3>3</h3>
+            <h3>16</h3>
           </div>
           <div class="card col">
             <h2 class="">Followers</h2>
-            <h3>5</h3>
+            <h3>2</h3>
           </div>
           </div>
           <div class="row">
             <div class="card col">
               <h2 class="">GitHub Stars</h2>
-              <h3>23</h3>
+              <h3>0</h3>
             </div>
             <div class="card col">
               <h2 class="">Following</h2>
-              <h3>9</h3>
+              <h3>2</h3>
             </div>
             </div>
         </main>
