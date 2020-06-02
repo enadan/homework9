@@ -175,7 +175,7 @@ function generateHTML(data) {
       <body class="wrapper">
           <div class="photo-header">
             <img class="photo-header" src='https://enadan.github.io/homework2/assets/images/stp.JPG' />
-            <h1>Hi!<br>My name is jamse!</h1>
+            <h1>Hi!<br>My name is Jonathon Lee!</h1>
             <h2>Currently @ Bank of America</h2>
             <div class="links-nav">
             <a class="nav-link" target="_blank" href="https://goo.gl/maps/acEzxNTxqwZ3KKsj7">Seattle, Washington</a>
